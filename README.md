@@ -1,2 +1,2 @@
-# Tx-Rex
-ahhhhhhhhhhhhhhhhhhhhhhh
+# Tx-ReX
+An application for managing debts and transactions between friends.
